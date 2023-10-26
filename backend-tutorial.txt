@@ -1,0 +1,10 @@
+pip install Flask
+método para submeter o arquivo, processá-lo (anonimzação), e depois exibir uma mensagem dizendo que os dados foram anonimizados q exibir uma mensagme dizendo que eles foram anonimizados.
+
+insomnia: Método post -> New Request 
+Content-Type 
+multipart/form-data
+
+Body -> Multipart Form
+Name -> File (depende da ocnfiguração da API)
+Choose file -> Escolher o arquivo que passará pela API e será anonimizado

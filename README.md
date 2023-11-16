@@ -1,4 +1,4 @@
-# backend-techmais
+# Backend-techmais
 # sobre o projeto
 
 O projeto consiste na resolução dos problemas de anonimização de metadados e segmentação de imagens da empresa Dosimagem. O primeiro problema de anonimização dos metadados dá-se em respeito à Lei Geral de Proteção de Dados(LGPD), sendo capaz a anonimização de metadados como nome, data de nascimento e quaisquer outros metadados que possam ser considerados sensíveis. Essa tarefa toma tempo dos responsáveis pelos laboratórios e atrasa o inicio do trabalho da Dosimagem e nem todos seus clientes têm conhecimento necessário para solucionar tal problema, sendo necessário a anonimização de metadados. 
